@@ -54,16 +54,16 @@ export default function Trending()  {
         <div className="flex justify-between p-3">
           <div className="flex space-x-3">
             <img
-              src="/assets/bragg.png"
+              src="/assets/khosro.jpg"
               className="w-11 h-11 rounded-full object-cover"
             />
 
             <div>
               <div className="flex">
-                <h1 className="font-bold ">David Bragg</h1>
+                <h1 className="font-bold ">Khosro </h1>
                 <BadgeCheckIcon className="w-4 text-blue-400 " />
               </div>
-              <h1 className="text-[12px] text-gray-500 mt-1">@DavidBragg</h1>
+              <h1 className="text-[12px] text-gray-500 mt-1">@Khosro</h1>
             </div>
           </div>
 
